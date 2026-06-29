@@ -1,0 +1,11 @@
+{
+  "name": "TurretAmmoPlanner",
+  "version": "0.1.0",
+  "factorio_version": "2.0",
+  "title": "Turret Ammo Planner",
+  "author": "Sid110307",
+  "description": "A turret ammo planner. Choose ammo/count/quality, then drag over turrets to apply.",
+  "dependencies": [
+    "base >= 2.0.0"
+  ]
+}

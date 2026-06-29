@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-06-30
+  Features:
+    - Added GUI-configurable Turret Ammo Planner.
+    - Added selection planner for ammo turrets and artillery turrets.
+    - Added logistics-backed item-request-proxy behavior for normal bot delivery.
+    - Added ammo item, count, quality, set/top-up/clear modes.
